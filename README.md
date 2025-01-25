@@ -1,11 +1,12 @@
 # Artificial Neural Network (ANN) from Scratch using NumPy on MNIST Dataset
+![ann](https://github.com/user-attachments/assets/99e768f7-5801-4c8d-88b0-472b91ab1b7b)
 
 ## Features
-- Build a customizable neural network with any number of layers and neurons.
-- Use ReLU activation for hidden layers and Softmax for output.
-- Implement forward and backward propagation with gradient descent.
-- Use cross-entropy loss for classification.
-- One-hot encode the target labels.
+- Built a customizable neural network with any number of layers and neurons.
+- Used ReLU activation for hidden layers and Softmax for outputs.
+- Implemented forward and backward propagation with gradient descent.
+- Used cross-entropy loss for classification.
+- One-hot encoded the target labels.
 
 ## Prerequisites
 - Python 3.x
@@ -15,13 +16,9 @@
 - Keras
 
 ## Getting Started
-
-1. **Clone the Repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/.git
-2. **Navigate to the Project Directory**:
+   https://github.com/Sam783/ANN_MNIST.git
+2. Install the required dependencies:
    ```bash
-   cd weather-app
-3. **Open the Application**: Locate and open the index.html file in your preferred web browser.
-  
-4. **Search for Weather Information**: Enter the name of a city into the search bar and click the search button to view the current weather information.
+   pip install -r requirements.txt
